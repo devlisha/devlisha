@@ -23,6 +23,7 @@ Me gusta unir la lógica del código con la sensibilidad del diseño para lograr
 |-----|--------------|
 | **Diseño UX/UI** | Figma · Canva · Photoshop · DaVinci Resolve |
 | **Frontend Moderno** | React · Next.js · Tailwind CSS |
+| **Móvil** | Android (Java) · iOS (Swift) |
 | **Prototipado** | Figma Components · Wireframes · Design Systems |
 | **Accesibilidad & Experiencia** | Diseño inclusivo · Usabilidad · Mobile-first |
 
@@ -30,18 +31,25 @@ Me gusta unir la lógica del código con la sensibilidad del diseño para lograr
 
 ---
 
-## 🖌️ Proyecto Destacado  
+## 🖌️ Proyectos Destacados  
+
+<div align="center">
 
 ### 🎮 [Pokémon Universe](https://projecto-pokemon.vercel.app)  
-- Frontend interactivo con **React + API**  
-- Arquitectura simple, escalable y responsiva  
-- UI cuidada con un enfoque en la experiencia  
+**Aplicación Full-Stack con enfoque en experiencia de usuario**  
 
-👉 [Código](https://github.com/devlisha/projecto-pokemon)
+🔹 UI dinámica y responsiva  
+🔹 Consumo de API con arquitectura clara  
+🔹 Pensada para ser simple, intuitiva y escalable  
+
+[![Live Demo](https://img.shields.io/badge/Demo%20Online-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://projecto-pokemon.vercel.app)  
+[![Código Fuente](https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devlisha/projecto-pokemon)  
+
+</div>
 
 ---
 
-## ⚡ Stack Visual  
+## ⚡ Stack Visual & Mobile  
 
 <div align="center">
 
@@ -50,7 +58,8 @@ Me gusta unir la lógica del código con la sensibilidad del diseño para lograr
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
 </div>
 
@@ -71,5 +80,5 @@ Me gusta unir la lógica del código con la sensibilidad del diseño para lograr
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradient=161B22,0D1117&height=120&section=footer" width="100%"/>
-  <p><em>© 2025 Devlisha • UX/UI + Frontend con propósito</em></p>
+  <p><em>© 2025 Devlisha • UX/UI + Frontend + Mobile con propósito</em></p>
 </div>

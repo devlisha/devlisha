@@ -38,7 +38,7 @@
 | ✅ Tasa de Éxito en Proyectos | 80% |
 | 🏫 Centros Educativos | 3+ colegios |
 | 🌍 Ubicación | Madrid, Spain |
-| 🗣️ Idiomas | 6+ idiomas |
+| 🗣️ Idiomas | 5 idiomas |
 
 </div>
 

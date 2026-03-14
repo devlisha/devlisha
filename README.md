@@ -176,7 +176,7 @@ Explora mis repositorios en [GitHub](https://github.com/devlisha?tab=repositorie
 | Idioma | Nivel | Certificado |
 |--------|-------|------------|
 | 🇪🇸 Español | Nativo | — |
-| 🇬🇧 Inglés | Avanzado (C1) | ✅ |
+| 🇬🇧 Inglés | Avanzado (B2) | ✅ |
 | 🇫🇷 Francés | Base (A2) | — |
 | 🇩🇪 Alemán | Base (A2) | — |
 | 🇨🇦 Catalán | Base (A2) | — |

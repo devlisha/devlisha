@@ -1,232 +1,198 @@
-<!-- Header -->
+<!-- Banner / Capsule -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=130&section=header&text=&animation=twinkling" width="100%"/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=560&lines=Hola%2C+soy+Alisha+%F0%9F%91%8B;Full-Stack+Developer;UX%2FUI+Designer;Educadora+STEM" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1c1917,100:b04a26&height=160&section=header&text=Alisha%20Ibarra%20Bello&fontColor=f2ebdd&fontSize=42&fontAlignY=50&desc=Desarrolladora%20·%20Formadora%20STEAM%20·%20Madrid&descSize=16&descAlignY=75&descAlign=50" width="100%" alt="banner" />
 
-  <p>
-    <strong>Desarrolladora Full-Stack</strong> · <strong>Diseñadora UX/UI</strong> · <strong>Educadora STEM</strong>
-  </p>
+<br />
 
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=devlisha&label=Visitas&color=8B5CF6&style=for-the-badge" alt="Profile Views"/>
-    <img src="https://img.shields.io/github/followers/devlisha?label=Followers&style=social" alt="GitHub followers"/>
-    <img src="https://img.shields.io/github/stars/devlisha?label=Stars&style=social" alt="GitHub stars"/>
-  </div>
+<!-- Typing headline -->
+<a href="https://portafolios-alisha-ibarra-bello-git-main-alis-project.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=Fraunces&size=24&duration=3500&pause=1000&color=B04A26&center=true&vCenter=true&width=600&lines=Entre+el+aula+y+el+editor+de+c%C3%B3digo.;Construyo+software+%26+ense%C3%B1o+a+hacerlo.;Full-Stack+Developer+%C2%B7+STEAM+Educator" alt="Typing SVG" />
+</a>
+
+<br /><br />
+
+<!-- Badges sobrias -->
+<img src="https://img.shields.io/badge/-Madrid%2C%20Spain-1c1917?style=flat-square&labelColor=1c1917" />
+<img src="https://komarev.com/ghpvc/?username=devlisha&label=Visitas&color=b04a26&style=flat-square" />
+<img src="https://img.shields.io/github/followers/devlisha?label=Followers&style=flat-square&color=1c1917&labelColor=1c1917" />
+<img src="https://img.shields.io/github/stars/devlisha?label=Stars&style=flat-square&color=b04a26&labelColor=1c1917" />
+
 </div>
 
+<br />
+
 ---
 
-## 🌸 Sobre mí
+## `I.` Sobre mí
 
-Soy una **desarrolladora Full-Stack y educadora STEM** con pasión por crear tecnología accesible e inclusiva. Combino el desarrollo de software con la enseñanza de robótica y programación a estudiantes de todas las edades.
+> *Me muevo entre dos lenguajes. Uno lo escriben los niños de diez años cuando descubren que un bloque puede hacer saltar a un gato; el otro lo escribo yo depurando un componente de React que se niega a cooperar.*
 
-- 🏫 Actualmente enseñando robótica y videojuegos en **Colegio San Patricio** y programando en **CEIP El Greco** y **CEIP Juan De La Cierva**
-- 💻 Especializada en **React, Next.js, Swift** y arquitecturas multiplataforma
+Soy **desarrolladora Full-Stack y educadora STEM**. Combino el desarrollo de software con la enseñanza de programación y robótica a estudiantes de primaria y secundaria en colegios de Madrid. Me interesa especialmente la intersección entre **pedagogía digital**, **diseño de interfaces accesibles** y **desarrollo multiplataforma**.
+
+- 🏫 Actualmente enseñando en **Colegio San Patricio**, **CEIP El Greco** y **CEIP Juan de la Cierva**
+- 💻 Especializada en **React · Next.js · Swift · Spring Boot**
 - 🎨 Apasionada del **diseño centrado en el usuario** y la **accesibilidad WCAG**
-- 🌍 Basada en **Madrid, Spain**
+- 🌱 Aprendiendo **Node.js · Docker · GraphQL · AI/ML**
+- 🌐 Portafolio: [portafolios-alisha-ibarra-bello.vercel.app](https://portafolios-alisha-ibarra-bello-git-main-alis-project.vercel.app)
 
 ---
 
-## 🔭 Actualmente trabajando en
-
-<div align="center">
+## `II.` Actualmente
 
 | Proyecto | Descripción |
-|----------|------------|
-| 🤖 **Currículo de Robótica** | Diseñando actividades STEM con LEGO SPIKE y MakeCode |
-| 🌐 **Portfolio Personal** | Ampliando proyectos Full-Stack con Next.js y TypeScript |
-| 📚 **Aprendizaje continuo** | Node.js · Docker · GraphQL · AI/ML |
-
-</div>
+| :--- | :--- |
+| 🤖 **Currículo STEAM** | Diseñando actividades con LEGO SPIKE y MakeCode |
+| 🌐 **Portfolio personal** | Sitio editorial en React + Vite + Tailwind |
+| 📚 **Formación continua** | Docker, GraphQL, Machine Learning básico |
 
 ---
 
-## 📊 GitHub Stats
+## `III.` Proyectos destacados
 
-<div align="center">
+### 📰 Portafolio personal &nbsp;·&nbsp; [`ver demo`](https://portafolios-alisha-ibarra-bello-git-main-alis-project.vercel.app) &nbsp;·&nbsp; [`código`](https://github.com/devlisha)
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=devlisha&show_icons=true&theme=tokyonight&title_color=8B5CF6&text_color=fff&icon_color=8B5CF6&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlisha&layout=compact&theme=tokyonight&title_color=8B5CF6&text_color=fff&hide_border=true" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devlisha&theme=tokyonight&hide_border=true&ring=8B5CF6&fire=9333EA&currStreakLabel=8B5CF6" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devlisha&theme=tokyo-night&hide_border=true&color=8B5CF6&line=9333EA&point=ffffff" width="100%" alt="Activity Graph"/>
-</div>
-
----
-
-## 🏆 Logros
-
-<div align="center">
-
-| Métrica | Valor |
-|---------|-------|
-| 📚 Estudiantes capacitados (anual) | 50+ |
-| ✅ Tasa de éxito en proyectos | 80% |
-| 🏫 Centros educativos | 3+ colegios |
-| 🗣️ Idiomas | 5 idiomas |
-
-</div>
-
----
-
-## 🎯 Especialidades
-
-<div align="center">
-
-| | |
-|---|---|
-| **🎓 Educación** | STEM · Robótica · Diseño de cursos · Pedagogía digital |
-| **💻 Desarrollo** | React · Next.js · Spring Boot · TypeScript · Python |
-| **🤖 Robótica educativa** | LEGO SPIKE · MakeCode · Scratch · RPG Maker |
-| **🎨 Diseño** | UX/UI · Design Systems · Accesibilidad WCAG · Figma |
-
-</div>
-
----
-
-## 🖌️ Proyectos Destacados
-
-<div align="center">
-
-### 🎮 [Pokémon Universe](https://projecto-pokemon.vercel.app)
-
-**Aplicación Full-Stack con enfoque en experiencia de usuario inmersiva**
+Sitio personal con estética editorial inspirada en revistas impresas.
 
 ```
-React · Next.js · TypeScript · Tailwind CSS · PokéAPI
+React 18  ·  TypeScript  ·  Vite  ·  Tailwind CSS  ·  shadcn/ui
 ```
 
-- 🎨 UI dinámica y altamente responsiva
-- ⚡ Consumo eficiente de API (PokéAPI)
-- 🔍 Sistema de búsqueda y filtros avanzados
-- 📱 Experiencia móvil optimizada
-- ♿ Accesibilidad WCAG AA
+- Tipografía serif variable (Fraunces + Inria Serif)
+- Paleta cream/ink con acento sienna
+- Secciones numeradas en romano con navegación lateral
+- Lista expandible de experiencia en formato índice
+- Despliegue continuo en Vercel
 
-[![Live Demo](https://img.shields.io/badge/➤%20Demo%20en%20Vivo-8B5CF6?style=for-the-badge)](https://projecto-pokemon.vercel.app)
-[![Código Fuente](https://img.shields.io/badge/Ver%20Código-181717?style=for-the-badge&logo=github)](https://github.com/devlisha/projecto-pokemon)
+### 🎮 Pokémon Universe &nbsp;·&nbsp; [`ver demo`](https://projecto-pokemon.vercel.app) &nbsp;·&nbsp; [`código`](https://github.com/devlisha/projecto-pokemon)
+
+Aplicación Full-Stack con enfoque en experiencia de usuario inmersiva.
+
+```
+React  ·  Next.js  ·  TypeScript  ·  Tailwind CSS  ·  PokéAPI
+```
+
+- UI dinámica y responsiva
+- Consumo eficiente de API con caché
+- Sistema de búsqueda y filtros avanzados
+- Accesibilidad WCAG AA
+
+### 🎹 Piano &nbsp;·&nbsp; [`código`](https://github.com/devlisha/piano)
+
+Piano interactivo en navegador. Vanilla JavaScript, sin dependencias.
+
+> Para ver más proyectos, visita mis [repositorios públicos →](https://github.com/devlisha?tab=repositories)
 
 ---
 
-### 💡 Más proyectos
+## `IV.` Instrumental
 
-Explora mis repositorios en [GitHub](https://github.com/devlisha?tab=repositories) para ver más trabajos en **diseño, frontend y desarrollo**.
+#### Lenguajes
+
+![TypeScript](https://img.shields.io/badge/TypeScript-1c1917?style=flat-square&logo=typescript&logoColor=b04a26)
+![JavaScript](https://img.shields.io/badge/JavaScript-1c1917?style=flat-square&logo=javascript&logoColor=b04a26)
+![Java](https://img.shields.io/badge/Java-1c1917?style=flat-square&logo=openjdk&logoColor=b04a26)
+![Python](https://img.shields.io/badge/Python-1c1917?style=flat-square&logo=python&logoColor=b04a26)
+![Swift](https://img.shields.io/badge/Swift-1c1917?style=flat-square&logo=swift&logoColor=b04a26)
+
+#### Frontend
+
+![React](https://img.shields.io/badge/React-1c1917?style=flat-square&logo=react&logoColor=b04a26)
+![Next.js](https://img.shields.io/badge/Next.js-1c1917?style=flat-square&logo=nextdotjs&logoColor=b04a26)
+![Vite](https://img.shields.io/badge/Vite-1c1917?style=flat-square&logo=vite&logoColor=b04a26)
+![Astro](https://img.shields.io/badge/Astro-1c1917?style=flat-square&logo=astro&logoColor=b04a26)
+![Tailwind](https://img.shields.io/badge/Tailwind-1c1917?style=flat-square&logo=tailwindcss&logoColor=b04a26)
+
+#### Backend
+
+![Spring](https://img.shields.io/badge/Spring-1c1917?style=flat-square&logo=spring&logoColor=b04a26)
+![Spring%20Boot](https://img.shields.io/badge/Spring_Boot-1c1917?style=flat-square&logo=springboot&logoColor=b04a26)
+![Node.js](https://img.shields.io/badge/Node.js-1c1917?style=flat-square&logo=nodedotjs&logoColor=b04a26)
+
+#### Herramientas & Diseño
+
+![Git](https://img.shields.io/badge/Git-1c1917?style=flat-square&logo=git&logoColor=b04a26)
+![Vercel](https://img.shields.io/badge/Vercel-1c1917?style=flat-square&logo=vercel&logoColor=b04a26)
+![Docker](https://img.shields.io/badge/Docker-1c1917?style=flat-square&logo=docker&logoColor=b04a26)
+![Figma](https://img.shields.io/badge/Figma-1c1917?style=flat-square&logo=figma&logoColor=b04a26)
+
+#### Educación & Robótica
+
+![Scratch](https://img.shields.io/badge/Scratch-1c1917?style=flat-square&logo=scratch&logoColor=b04a26)
+![MakeCode](https://img.shields.io/badge/MakeCode-1c1917?style=flat-square&logoColor=b04a26)
+![LEGO%20SPIKE](https://img.shields.io/badge/LEGO_SPIKE-1c1917?style=flat-square&logo=lego&logoColor=b04a26)
+![Minecraft](https://img.shields.io/badge/Minecraft_Education-1c1917?style=flat-square&logo=minecraft&logoColor=b04a26)
+
+---
+
+## `V.` Archivo — Experiencia
+
+```text
+2026 — Presente   Profesora de Robótica y Videojuegos    Colegio San Patricio, Madrid
+2025 — Presente   Formadora Programación & Robótica      CEIP El Greco, Madrid
+2025 — Presente   Formadora Programación & Robótica      CEIP Juan de la Cierva, Madrid
+2025              Desarrolladora de Aplicaciones         Omkrom, Madrid
+2024 — 2025       Profesora de Robótica                  Corazonistas Madrid
+```
+
+**Formación** — Ciclo Formativo de Grado Superior, Desarrollo de Aplicaciones Multiplataforma · Upgrade Hub (2023 – 2025)
+
+---
+
+## `VI.` Estadísticas
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=devlisha&show_icons=true&theme=vue-dark&title_color=b04a26&text_color=f2ebdd&icon_color=b04a26&bg_color=1c1917&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlisha&layout=compact&theme=vue-dark&title_color=b04a26&text_color=f2ebdd&bg_color=1c1917&hide_border=true&langs_count=8" />
+
+<br />
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=devlisha&theme=react-dark&hide_border=true&bg_color=1c1917&color=f2ebdd&line=b04a26&point=f2ebdd&area=true&area_color=b04a26" />
 
 </div>
 
 ---
 
-## ⚡ Tech Stack
+## `VII.` Idiomas
 
-<div align="center">
-
-### 💻 Lenguajes
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-
-### 🚀 Frontend & Backend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-
-### 🛠️ Herramientas & Diseño
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### 🤖 Educación & Robótica
-![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white)
-![MakeCode](https://img.shields.io/badge/MakeCode-FF6B00?style=for-the-badge&logoColor=white)
-![LEGO](https://img.shields.io/badge/LEGO-FFC100?style=for-the-badge&logo=lego&logoColor=black)
-
-</div>
+| Lengua | Nivel | |
+| :--- | :--- | :--- |
+| Español | Nativo | ●●●●● |
+| Inglés | Intermedio (B2) | ●●●○○ |
+| Francés | Base (A2) | ●○○○○ |
+| Alemán | Base (A2) | ●○○○○ |
+| Catalán | Base (A2) | ●○○○○ |
 
 ---
 
-## 💼 Experiencia Laboral
+## `VIII.` Colofón
 
 <div align="center">
 
-| Período | Puesto | Institución |
-|---------|--------|-------------|
-| **02/2026 – Presente** | Profesora de Robótica y Videojuegos | Colegio San Patricio, Madrid |
-| **10/2025 – Presente** | Formadora en Programación y Robótica | CEIP El Greco, Madrid |
-| **10/2025 – Presente** | Formadora en Programación y Robótica | CEIP Juan De La Cierva, Madrid |
-| **03/2025 – 09/2025** | Desarrolladora de Aplicaciones | Omkrom, Madrid |
-| **10/2024 – 03/2025** | Profesora de Robótica | Corazonistas Madrid |
+<h3>Hablemos.</h3>
 
-</div>
+<p>
+Si buscas una formadora para tu colegio, una desarrolladora para tu equipo, <br />
+o un café para hablar de educación & código.
+</p>
 
----
+<br />
 
-## 🎓 Formación Académica
+<a href="https://portafolios-alisha-ibarra-bello-git-main-alis-project.vercel.app">
+  <img src="https://img.shields.io/badge/PORTFOLIO-b04a26?style=for-the-badge&logoColor=f2ebdd" alt="Portfolio" />
+</a>
+<a href="mailto:ibarrabelloalisha@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-1c1917?style=for-the-badge&logo=gmail&logoColor=f2ebdd" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/alisha-ibarra-bello-4526561b6/">
+  <img src="https://img.shields.io/badge/LINKEDIN-1c1917?style=for-the-badge&logo=linkedin&logoColor=f2ebdd" alt="LinkedIn" />
+</a>
 
-<div align="center">
+<br /><br />
 
-**Ciclo Formativo de Grado Superior — Desarrollo de Aplicaciones Multiplataforma**  
-*Upgrade Hub · Septiembre 2023 – Junio 2025*
+<sub><i>Hecho a mano en Madrid · Vol. I</i></sub>
 
-Especialización en desarrollo iOS, Android y Web · Metodologías ágiles · Arquitectura escalable
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1c1917,100:b04a26&height=60&section=footer" width="100%" alt="footer" />
 
-</div>
-
----
-
-## 🌍 Idiomas
-
-<div align="center">
-
-| Idioma | Nivel |
-|--------|-------|
-| 🇪🇸 Español | Nativo |
-| 🇬🇧 Inglés | Avanzado (B2) |
-| 🇫🇷 Francés | Básico (A2) |
-| 🇩🇪 Alemán | Básico (A2) |
-| 🇨🇦 Catalán | Básico (A2) |
-
-</div>
-
----
-
-## 💡 Mi Enfoque
-
-<div align="center">
-
-🎯 **User-Centric** · ♿ **Accesibilidad WCAG** · 📊 **Data-Driven** · ⚡ **Performance** · 🎓 **Educación Inclusiva**
-
-</div>
-
----
-
-## 📫 Conectemos
-
-<div align="center">
-
-📍 **Madrid, Spain**
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibarrabelloalisha@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisha-ibarra-bello-4526561b6/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devlisha)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=110&section=footer&animation=twinkling" width="100%"/>
-
-  <p><strong>Hecho con 💜 por Alisha Ibarra</strong></p>
-  <p><em>Apasionada por la educación, la tecnología y la innovación</em></p>
-  <p><em>Última actualización: Abril 2026</em></p>
 </div>
